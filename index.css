@@ -4,7 +4,7 @@ body, html {
 }
 
 header {
-    margin-top: 2em;
+    margin-top: 4em;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -13,13 +13,13 @@ header {
 
 header > h1 {
     color: #343a40;
-    font-size: 2em;
+    font-size: 5em;
     text-align: center;
 }
 
 header > img {
-    width: 6em;
-    height: 6em;
+    width: 15em;
+    height: 15em;
     border-radius: 100%;
 }
 
@@ -29,7 +29,7 @@ header > img {
 
 .link {
     color: #343a40;
-    font-size: 1.5em;
+    font-size: 3em;
     text-align: center;
 }
 
