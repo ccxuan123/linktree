@@ -1,0 +1,175 @@
+/*
+* littlelink.io
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+/*
+* Built using on:
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+- Buttons
+- Brand Styles
+
+*/
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.button,
+button {
+  display: inline-block;
+  text-decoration: none;
+  height: 48px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+  width: 300px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.1px;
+  white-space: wrap;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover,
+.button:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0;
+}
+.button.button-primary {
+  color: #fff;
+  filter: brightness(90%);
+}
+.button.button-primary:hover,
+.button.button-primary:focus {
+  color: #fff;
+  filter: brightness(90%);
+}
+
+/* Brand Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.icon {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+/* Brand Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Default (this is great for your own brand color!) */
+.button.button-default {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}
+
+/* Facebook */
+.button.button-faceb {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-faceb:hover,
+.button.button-faceb:focus {
+  filter: brightness(90%);
+}
+
+/* GitHub */
+.button.button-github {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-github:hover,
+.button.button-github:focus {
+  filter: brightness(90%);
+}
+
+/* Instagram */
+.button.button-instagram {
+  color: #fdfdff;
+  background-color : #62929e;
+}
+.button.button-instagram:hover,
+.button.button-instagram:focus {
+  filter: brightness(90%);
+}
+
+/* Mastodon */
+.button.button-mastodon {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-mastodon:hover,
+.button.button-mastodon:focus {
+  filter: brightness(90%);
+}
+
+/* Reddit */
+.button.button-reddit {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-reddit:hover,
+.button.button-reddit:focus {
+  filter: brightness(90%);
+}
+
+/* Twitter */
+.button.button-twit {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-twit:hover,
+.button.button-twit:focus {
+  filter: brightness(90%);
+}
+
+/* Vero */
+.button.button-vero {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-vero:hover,
+.button.button-vero:focus {
+  filter: brightness(90%);
+}
+
+/* ProtraitMode */
+.button.button-protraitmode {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-protraitmode:hover,
+.button.button-protraitmode:focus {
+  filter: brightness(90%);
+}
+
+/* Carousell */
+.button.button-carousell {
+  color: #fdfdff;
+  background-color: #62929e;
+}
+.button.button-carousell:hover,
+.button.button-carousell:focus {
+  filter: brightness(90%);
+}
